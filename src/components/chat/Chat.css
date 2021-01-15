@@ -1,0 +1,14 @@
+.chat-container {
+  display: grid;
+  flex-direction: column;
+  grid-template-columns: 1.2fr 3fr;
+}
+
+.chat-room {
+  height: 92vh;
+  overflow: auto;
+}
+
+.chat-screen {
+  background-color: #eee;
+}

@@ -1,0 +1,21 @@
+.sub-header {
+  padding: 1rem;
+  color: #9e9e9e;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.search {
+  padding: 0.8rem;
+  border: none;
+  border-bottom: solid 1px #eeeeee;
+  border-top: solid 1px #eeeeee;
+  color: #9e9e9e;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.chat-room-list {
+  height: 75vh;
+  overflow: auto;
+}

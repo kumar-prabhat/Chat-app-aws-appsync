@@ -1,0 +1,26 @@
+.chat-view {
+  padding: 10px;
+}
+
+.chat-message-box {
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 0.9rem;
+}
+
+.message {
+  font-size: 0.8rem;
+}
+
+.chat-time {
+  align-self: flex-end;
+  color: grey;
+  font-size: 0.8rem;
+}
